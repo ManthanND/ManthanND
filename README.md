@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manthan Nitin.
+- 👋 Hi, I’m Manthan Nitin.
 - 👀 I’m interested in Mechanical Design and Manufacturing, Finite Element Assembly, Computational Fluid Dynamics, Computational Strutural Dynamics, CAD/CAM, Digital Manufacturing,IoT, Industry 4.0, Data Science, Machine Learning and Deep Learning methods for Computer Vision and Natural Language Processing. In short everything interests me:)
 - 🌱 I’m currently doing Master's in Mechanical from Indian Institute of Technology, Bombay.
 - 💞️ I’m looking to collaborate on various Mechanical, mechatronics and Industry 4.0 allied stuff.
